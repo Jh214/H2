@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a538e62a-209d-42c5-997a-1db5d52e5d58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h2/src/main/java/org/example/h2/controller/BoardController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h2/src/main/java/org/example/h2/entity/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h2/src/main/java/org/example/h2/repository/BoardRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/h2/src/main/java/org/example/h2/service/BoardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/h2/src/main/java/org/example/h2/service/BoardService.java" afterDir="false" />
-    </list>
+    <list default="true" id="a538e62a-209d-42c5-997a-1db5d52e5d58" name="Changes" comment="delete and add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +33,12 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Groovy",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,10 +59,24 @@
       <updated>1710737313411</updated>
       <workItem from="1710737320193" duration="41000" />
       <workItem from="1710898382705" duration="266000" />
+      <workItem from="1710898731216" duration="373000" />
     </task>
+    <task id="LOCAL-00001" summary="delete and add">
+      <option name="closed" value="true" />
+      <created>1710898764093</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710898764093</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="delete and add" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete and add" />
   </component>
 </project>
