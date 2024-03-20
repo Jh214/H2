@@ -1,7 +1,7 @@
-package com.study.board.service;
+package org.example.h2.service;
 
-import com.study.board.entity.Board;
-import com.study.board.repository.BoardRepository;
+import org.example.h2.entity.Board;
+import org.example.h2.repository.BoardRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
