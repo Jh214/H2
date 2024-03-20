@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a538e62a-209d-42c5-997a-1db5d52e5d58" name="Changes" comment="delete and add" />
+    <list default="true" id="a538e62a-209d-42c5-997a-1db5d52e5d58" name="Changes" comment="delete and add">
+      <change afterPath="$PROJECT_DIR$/experiment/src/main/java/org/example/experiment/controller/experimentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/main/java/org/example/experiment/ExperimentApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/main/java/org/example/experiment/ExperimentApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/experiment/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/experiment/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +64,7 @@
       <updated>1710737313411</updated>
       <workItem from="1710737320193" duration="41000" />
       <workItem from="1710898382705" duration="266000" />
-      <workItem from="1710898731216" duration="373000" />
+      <workItem from="1710898731216" duration="1411000" />
     </task>
     <task id="LOCAL-00001" summary="delete and add">
       <option name="closed" value="true" />
