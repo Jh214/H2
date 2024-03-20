@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class experimentController {
     @GetMapping("/") // 127.0.0.1:8091/study/main
-    public String boardWriteForm(){
+    public String LearningMainForm(){
 
         return "shop";
     }
