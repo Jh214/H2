@@ -17,8 +17,9 @@ public class SecurityConfig {
         http
                 .authorizeHttpRequests((auth) -> auth
                         .requestMatchers("/study/main", "login").permitAll()/*study/main에서 모든 사용자에게 권한을 줌*/
+                        .requestMatchers("/css/**" , "/js/**").permitAll()
                         .requestMatchers("/study/login").permitAll()
-                        .requestMatchers("/study/sginup").permitAll()
+                        .requestMatchers("/study/signup").permitAll()
                         .requestMatchers("/study/mypage/**").hasAnyRole("ADMIN", "USER")
                         .anyRequest().authenticated()
                 );

@@ -24,9 +24,9 @@ public class experimentController {
 
         return "logIn";
     }
-    @GetMapping("/study/sginup")
+    @GetMapping("/study/signup")
     public String sginupPage(){
 
-        return "sginUp";
+        return "signUp";
     }
 }
